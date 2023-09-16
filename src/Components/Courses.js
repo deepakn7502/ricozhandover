@@ -21,6 +21,7 @@ export default function Courses() {
           <div></div>
           <div></div>
           <div></div>
+          
         </div>
       </div>
     </div>
